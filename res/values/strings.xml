@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Chronos</string>
+    <string name="demarrer">Démarrer</string>
+    <string name="redemarrer">Redémarrer</string>
+    <string name="stoper">Arrêter</string>
+    <string name="memoriser">Mémoriser</string>
+    <string name="reinitialiser">Réinitialiser</string>
+    <string name="vider">Vider</string>
+    <string name="quitter">Quitter</string>
+</resources>
